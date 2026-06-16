@@ -14,7 +14,4 @@ We are a cross-institutional community of practice for AI practitioners working 
 - Lois Wong; AI Librarian at the University of Chicago, September 2025-present 
     - First AI librarian at UChicago 
     
-# TODO: Think About
 
-- [ ]  How to publicize/increase visibility? Can invite people to follow our GitHub Org. LinkedIn post. Timeline?
-- [ ]  Change the name to be more general/age better
