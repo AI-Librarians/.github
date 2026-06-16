@@ -8,11 +8,11 @@ The library is uniquely positioned as an interdisciplinary space that bridges ac
 # Founding Members
 
 1. Sharesly Rodriguez; AI Librarian at San Jose State University, January 2025-present 
-    1. First dedicated AI Librarian position in the US and at SJSU 
+    - First dedicated AI Librarian position in the US and at SJSU 
 2. Will Huggins; Associate Director, Library Technology & Innovation at Stanford Law, February 2026-present  
 3. Lois Wong; AI Librarian at the University of Chicago, September 2025-present 
-    1. First AI librarian at UChicago 
-
+    - First AI librarian at UChicago 
+    
 # TODO: Think About
 
 - [ ]  How to publicize/increase visibility? Can invite people to follow our GitHub Org. LinkedIn post. Timeline?
