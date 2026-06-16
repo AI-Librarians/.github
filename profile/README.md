@@ -1,9 +1,9 @@
 # About
-We are a cross-institutional community of practice for AI practitioners working in academic libraries, founded by the first wave of dedicated AI-focused positions at academic libraries. We collaborate on projects and create shared resources, reducing redundant and siloed effort across campuses. We believe that doing so opens the door to greater impact, wider visibility, and better results. 
+We are a cross-institutional community of practice for AI practitioners working in academic libraries, founded by the first wave of dedicated AI-focused positions in this space. We collaborate on projects and create shared resources, reducing redundant and siloed effort across campuses, and believe that doing so opens the door to greater impact, wider visibility, and better results. 
 
 Everything we build is open source and openly licensed, so it can be used, adapted, and carried forward by anyone in the field. 
 
-The library is uniquely positioned as an interdisciplinary space that bridges academic research with the broader community, making it a strategic site for [a bit on literacy and knowledge being a prerequisite for agency bc ai is impacting everyone and society between biased algorithms and whatnot and perspectives from the communities and other fields are necessary for good/equitable/responsible ai development and integration into society]. Libraries are open to everyone, not just institutional affiliates, which means the conversations and tools that are hosted here are open to everbody in a way that academia and industry often are not.
+The library is uniquely positioned as an interdisciplinary space that bridges academic research with the broader community. Because libraries are open to everybody, the conversations, resources, and tools housed here are open in a way that academia and industry often are not. This makes it a strategic site for advancing AI and information literacy, equipping people to meaningfully participate in AI development and integration into society. As AI systems increasingly shape research and everyday life, community and interdisciplinary perspectives are necessary to surface blind spots, address bias, and support a more responsible and ethical integration of AI into society--and libraries are positioned to make a space for them. 
 
 # Founding Members
 
